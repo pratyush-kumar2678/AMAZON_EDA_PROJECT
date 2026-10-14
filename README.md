@@ -1,3 +1,9 @@
+## 🚀 Live Dashboard
+
+[Open Amazon Product Analysis Dashboard](https://amazonedaproject-6u5dgaekya82beseaki8tr.streamlit.app/)
+
+---
+
 # Amazon EDA Portfolio Project
 
 ## Project Overview
